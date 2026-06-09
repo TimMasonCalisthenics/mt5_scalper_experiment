@@ -467,3 +467,6 @@
 2026-06-09 18:11:33,470 [INFO] Bot started
 2026-06-09 20:06:11,444 [INFO] Bot stopped
 2026-06-09 20:06:11,451 [INFO] Disconnected from MT5
+2026-06-09 20:06:16,548 [INFO] Database ready: data/trades.db
+2026-06-09 20:06:22,118 [INFO] Connected to MT5 - Account: 433730614
+2026-06-09 20:06:23,628 [INFO] Bot started
