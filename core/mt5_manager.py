@@ -112,7 +112,7 @@ class MT5Manager:
         if not self.connected or not MT5_AVAILABLE:
             return self._generate_demo_candles(count)
 
-        tf = TIMEFRAMES.get(timeframe, mt5.TIMEFRAME_M1)
+        tf = TIMEFRAMES.get(timeframe, mt5.TIMEFRAME_M30)
         rates = mt5.copy_rates_from_pos(symbol, tf, 0, count)
 
         if rates is None or len(rates) == 0:
@@ -136,7 +136,7 @@ class MT5Manager:
             if not ok:
                 return None
 
-        tf = TIMEFRAMES.get(timeframe, mt5.TIMEFRAME_M1)
+        tf = TIMEFRAMES.get(timeframe, mt5.TIMEFRAME_M30)
         rates = mt5.copy_rates_range(symbol, tf, date_from, date_to)
 
         if rates is None or len(rates) == 0:

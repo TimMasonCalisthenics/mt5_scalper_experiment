@@ -26,7 +26,7 @@ TRADING_CONFIG = {
 RISK_CONFIG = {
     "stop_loss_pips": 200,         # 500 points = $0.05 per 0.10 lot (Exness)
     "take_profit_pips": 400,      # 1000 points = $0.10 per 0.10 lot (2:1 ratio)
-    "trailing_stop_pips": 300,     # Move stop after 300 points profit
+    "trailing_stop_pips": 100,     # Move stop after 300 points profit
     "use_trailing_stop": True,
     "use_atr_stops": True,         # Dynamic stops based on ATR
     "atr_sl_multiplier": 1.5,      # SL = ATR * 1.5 (Exness adjusted)
