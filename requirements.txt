@@ -1,0 +1,22 @@
+# MT5 Scalping Bot - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core MT5
+MetaTrader5>=5.0.45
+
+# GUI
+customtkinter>=5.2.0
+
+# Data & Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+ta>=0.11.0
+
+# Charts
+matplotlib>=3.7.0
+
+# Alerts
+requests>=2.31.0
+
+# Utilities
+python-dateutil>=2.8.0

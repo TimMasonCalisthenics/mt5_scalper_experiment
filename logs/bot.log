@@ -1,0 +1,469 @@
+2026-05-27 21:39:58,022 [INFO] Database ready: data/trades.db
+2026-05-27 22:00:30,436 [INFO] Database ready: data/trades.db
+2026-06-06 20:49:52,846 [INFO] Database ready: data/trades.db
+2026-06-06 20:55:08,073 [INFO] Database ready: data/trades.db
+2026-06-06 20:55:11,076 [INFO] Connected to MT5 - Account: 433730614
+2026-06-06 20:55:27,950 [ERROR] Failed to get rates for EURUSD: (-1, 'Terminal: Call failed')
+2026-06-06 20:55:27,950 [INFO] Bot started
+2026-06-06 20:55:27,950 [WARNING] Failed to get candles
+2026-06-06 20:55:32,969 [ERROR] Failed to get rates for EURUSD: (-1, 'Terminal: Call failed')
+2026-06-06 20:55:32,969 [WARNING] Failed to get candles
+2026-06-06 20:55:37,976 [ERROR] Failed to get rates for EURUSD: (-1, 'Terminal: Call failed')
+2026-06-06 20:55:37,976 [WARNING] Failed to get candles
+2026-06-06 20:55:42,982 [ERROR] Failed to get rates for EURUSD: (-1, 'Terminal: Call failed')
+2026-06-06 20:55:42,982 [WARNING] Failed to get candles
+2026-06-06 20:55:47,988 [ERROR] Failed to get rates for EURUSD: (-1, 'Terminal: Call failed')
+2026-06-06 20:55:47,988 [WARNING] Failed to get candles
+2026-06-06 20:55:52,993 [ERROR] Failed to get rates for EURUSD: (-1, 'Terminal: Call failed')
+2026-06-06 20:55:52,993 [WARNING] Failed to get candles
+2026-06-06 20:55:57,998 [ERROR] Failed to get rates for EURUSD: (-1, 'Terminal: Call failed')
+2026-06-06 20:55:57,999 [WARNING] Failed to get candles
+2026-06-06 20:55:58,431 [INFO] Bot stopped
+2026-06-06 20:57:05,237 [INFO] Database ready: data/trades.db
+2026-06-06 20:57:23,877 [INFO] Connected to MT5 - Account: 433730614
+2026-06-06 20:57:30,010 [INFO] Bot started
+2026-06-06 21:27:32,275 [INFO] Bot stopped
+2026-06-06 21:28:01,795 [INFO] Database ready: data/trades.db
+2026-06-06 21:28:07,328 [INFO] Connected to MT5 - Account: 433730614
+2026-06-06 21:28:08,315 [INFO] Bot started
+2026-06-06 21:55:07,710 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-06 21:55:07,732 [ERROR] Order failed: 10027 - AutoTrading disabled by client
+2026-06-06 21:55:07,733 [ERROR] Order failed: Order failed: 10027 - AutoTrading disabled by client
+2026-06-06 21:55:13,144 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-06 21:55:13,184 [ERROR] Order failed: 10027 - AutoTrading disabled by client
+2026-06-06 21:55:13,185 [ERROR] Order failed: Order failed: 10027 - AutoTrading disabled by client
+2026-06-06 21:55:18,225 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-06 21:55:18,242 [ERROR] Order failed: 10027 - AutoTrading disabled by client
+2026-06-06 21:55:18,243 [ERROR] Order failed: Order failed: 10027 - AutoTrading disabled by client
+2026-06-06 21:55:23,339 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-06 21:55:23,355 [ERROR] Order failed: 10027 - AutoTrading disabled by client
+2026-06-06 21:55:23,356 [ERROR] Order failed: Order failed: 10027 - AutoTrading disabled by client
+2026-06-06 21:55:28,449 [INFO] Signal: SELL — SELL signal — score 6/6
+2026-06-06 21:55:28,466 [ERROR] Order failed: 10027 - AutoTrading disabled by client
+2026-06-06 21:55:28,466 [ERROR] Order failed: Order failed: 10027 - AutoTrading disabled by client
+2026-06-06 21:55:33,510 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-06 21:55:33,529 [ERROR] Order failed: 10027 - AutoTrading disabled by client
+2026-06-06 21:55:33,529 [ERROR] Order failed: Order failed: 10027 - AutoTrading disabled by client
+2026-06-06 21:55:38,900 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-06 21:55:38,926 [ERROR] Order failed: 10027 - AutoTrading disabled by client
+2026-06-06 21:55:38,926 [ERROR] Order failed: Order failed: 10027 - AutoTrading disabled by client
+2026-06-06 21:55:43,977 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-06 21:55:43,996 [ERROR] Order failed: 10027 - AutoTrading disabled by client
+2026-06-06 21:55:43,997 [ERROR] Order failed: Order failed: 10027 - AutoTrading disabled by client
+2026-06-06 21:55:49,089 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-06 21:55:49,106 [ERROR] Order failed: 10027 - AutoTrading disabled by client
+2026-06-06 21:55:49,106 [ERROR] Order failed: Order failed: 10027 - AutoTrading disabled by client
+2026-06-06 21:55:54,210 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-06 21:55:54,232 [ERROR] Order failed: 10027 - AutoTrading disabled by client
+2026-06-06 21:55:54,232 [ERROR] Order failed: Order failed: 10027 - AutoTrading disabled by client
+2026-06-06 21:55:59,338 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-06 21:55:59,358 [ERROR] Order failed: 10027 - AutoTrading disabled by client
+2026-06-06 21:55:59,359 [ERROR] Order failed: Order failed: 10027 - AutoTrading disabled by client
+2026-06-06 22:21:13,977 [INFO] Bot stopped
+2026-06-06 22:25:06,713 [INFO] Database ready: data/trades.db
+2026-06-06 22:25:14,011 [INFO] Connected to MT5 - Account: 433730614
+2026-06-06 22:25:14,732 [INFO] Bot started
+2026-06-06 22:55:06,827 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-06 22:55:06,844 [ERROR] Order failed: 10016 - Invalid stops
+2026-06-06 22:55:06,845 [ERROR] Order failed: Order failed: 10016 - Invalid stops
+2026-06-06 22:55:11,901 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-06 22:55:11,918 [ERROR] Order failed: 10016 - Invalid stops
+2026-06-06 22:55:11,918 [ERROR] Order failed: Order failed: 10016 - Invalid stops
+2026-06-06 22:55:17,203 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-06 22:55:17,227 [ERROR] Order failed: 10016 - Invalid stops
+2026-06-06 22:55:17,227 [ERROR] Order failed: Order failed: 10016 - Invalid stops
+2026-06-06 22:55:22,268 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-06 22:55:22,282 [ERROR] Order failed: 10016 - Invalid stops
+2026-06-06 22:55:22,282 [ERROR] Order failed: Order failed: 10016 - Invalid stops
+2026-06-06 22:55:27,335 [INFO] Signal: SELL — SELL signal — score 5/6
+2026-06-06 22:55:27,349 [ERROR] Order failed: 10016 - Invalid stops
+2026-06-06 22:55:27,350 [ERROR] Order failed: Order failed: 10016 - Invalid stops
+2026-06-06 22:55:32,387 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-06 22:55:32,404 [ERROR] Order failed: 10016 - Invalid stops
+2026-06-06 22:55:32,404 [ERROR] Order failed: Order failed: 10016 - Invalid stops
+2026-06-06 22:55:37,455 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-06 22:55:37,477 [ERROR] Order failed: 10016 - Invalid stops
+2026-06-06 22:55:37,478 [ERROR] Order failed: Order failed: 10016 - Invalid stops
+2026-06-06 22:55:42,840 [INFO] Signal: SELL — SELL signal — score 6/6
+2026-06-06 22:55:42,864 [ERROR] Order failed: 10016 - Invalid stops
+2026-06-06 22:55:42,865 [ERROR] Order failed: Order failed: 10016 - Invalid stops
+2026-06-06 22:55:47,898 [INFO] Signal: SELL — SELL signal — score 6/6
+2026-06-06 22:55:47,915 [ERROR] Order failed: 10016 - Invalid stops
+2026-06-06 22:55:47,916 [ERROR] Order failed: Order failed: 10016 - Invalid stops
+2026-06-06 22:55:52,950 [INFO] Signal: SELL — SELL signal — score 6/6
+2026-06-06 22:55:52,973 [ERROR] Order failed: 10016 - Invalid stops
+2026-06-06 22:55:52,973 [ERROR] Order failed: Order failed: 10016 - Invalid stops
+2026-06-06 22:55:58,021 [INFO] Signal: SELL — SELL signal — score 5/6
+2026-06-06 22:55:58,036 [ERROR] Order failed: 10016 - Invalid stops
+2026-06-06 22:55:58,036 [ERROR] Order failed: Order failed: 10016 - Invalid stops
+2026-06-06 22:56:59,319 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-06 22:56:59,346 [ERROR] Order failed: 10016 - Invalid stops
+2026-06-06 22:56:59,347 [ERROR] Order failed: Order failed: 10016 - Invalid stops
+2026-06-06 23:00:31,007 [INFO] Database ready: data/trades.db
+2026-06-06 23:00:36,999 [INFO] Connected to MT5 - Account: 433730614
+2026-06-06 23:00:37,661 [INFO] Bot started
+2026-06-06 23:41:09,058 [INFO] Signal: BUY — BUY signal — score 4/6
+2026-06-06 23:41:09,076 [ERROR] Order failed: 10016 - Invalid stops
+2026-06-06 23:41:09,076 [ERROR] Order failed: Order failed: 10016 - Invalid stops
+2026-06-06 23:41:14,110 [INFO] Signal: BUY — BUY signal — score 4/6
+2026-06-06 23:41:14,127 [ERROR] Order failed: 10016 - Invalid stops
+2026-06-06 23:41:14,128 [ERROR] Order failed: Order failed: 10016 - Invalid stops
+2026-06-07 00:00:02,336 [INFO] Daily reset. Previous P&L: 0.00
+2026-06-07 11:14:41,920 [INFO] Database ready: data/trades.db
+2026-06-07 11:14:55,306 [INFO] Connected to MT5 - Account: 433730614
+2026-06-07 11:15:02,592 [INFO] Bot started
+2026-06-07 15:25:01,815 [INFO] Database ready: data/trades.db
+2026-06-07 15:25:08,723 [INFO] Connected to MT5 - Account: 433730614
+2026-06-07 15:25:14,891 [INFO] Bot started
+2026-06-07 16:57:34,453 [INFO] Signal: BUY — BUY signal — score 6/6
+2026-06-07 16:57:34,500 [INFO] Order placed: BUY 1.67 BTCUSDm @ 62548.33 | Ticket: 4172937222
+2026-06-07 16:57:34,514 [INFO] Trade opened: BUY 1.67 BTCUSDm @ 62548.33
+2026-06-07 16:57:39,569 [INFO] Signal: BUY — BUY signal — score 6/6
+2026-06-07 16:57:39,618 [INFO] Order placed: BUY 1.67 BTCUSDm @ 62549.91 | Ticket: 4172937284
+2026-06-07 16:57:39,623 [INFO] Trade opened: BUY 1.67 BTCUSDm @ 62549.91
+2026-06-07 16:57:44,715 [INFO] Signal: BUY — BUY signal — score 6/6
+2026-06-07 16:57:44,757 [INFO] Order placed: BUY 1.67 BTCUSDm @ 62551.0 | Ticket: 4172937300
+2026-06-07 16:57:44,763 [INFO] Trade opened: BUY 1.67 BTCUSDm @ 62551.0
+2026-06-07 16:57:49,941 [INFO] Signal: BUY — BUY signal — score 6/6
+2026-06-07 16:57:49,985 [INFO] Order placed: BUY 1.67 BTCUSDm @ 62549.65 | Ticket: 4172937328
+2026-06-07 16:57:49,990 [INFO] Trade opened: BUY 1.67 BTCUSDm @ 62549.65
+2026-06-07 17:18:14,671 [INFO] Signal: BUY — BUY signal — score 6/6
+2026-06-07 17:18:14,720 [INFO] Order placed: BUY 1.64 BTCUSDm @ 62449.65 | Ticket: 4172963379
+2026-06-07 17:18:14,725 [INFO] Trade opened: BUY 1.64 BTCUSDm @ 62449.65
+2026-06-07 17:18:24,944 [INFO] Signal: BUY — BUY signal — score 6/6
+2026-06-07 17:18:24,989 [INFO] Order placed: BUY 1.64 BTCUSDm @ 62450.270000000004 | Ticket: 4172963487
+2026-06-07 17:18:24,993 [INFO] Trade opened: BUY 1.64 BTCUSDm @ 62450.270000000004
+2026-06-07 17:18:35,136 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-07 17:18:35,178 [INFO] Order placed: BUY 1.64 BTCUSDm @ 62457.55 | Ticket: 4172963701
+2026-06-07 17:18:35,183 [INFO] Trade opened: BUY 1.64 BTCUSDm @ 62457.55
+2026-06-07 17:54:12,161 [INFO] Signal: BUY — BUY signal — score 6/6
+2026-06-07 17:54:12,205 [INFO] Order placed: BUY 1.62 BTCUSDm @ 62382.79 | Ticket: 4173009910
+2026-06-07 17:54:12,210 [INFO] Trade opened: BUY 1.62 BTCUSDm @ 62382.79
+2026-06-07 17:54:17,264 [INFO] Signal: BUY — BUY signal — score 6/6
+2026-06-07 17:54:17,306 [INFO] Order placed: BUY 1.62 BTCUSDm @ 62379.05 | Ticket: 4173010014
+2026-06-07 17:54:17,311 [INFO] Trade opened: BUY 1.62 BTCUSDm @ 62379.05
+2026-06-07 18:04:32,222 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-07 18:04:32,265 [INFO] Order placed: SELL 1.6 BTCUSDm @ 62345.43 | Ticket: 4173019684
+2026-06-07 18:04:32,270 [INFO] Trade opened: SELL 1.6 BTCUSDm @ 62345.43
+2026-06-07 18:04:37,440 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-07 18:04:37,484 [INFO] Order placed: SELL 1.6 BTCUSDm @ 62339.62 | Ticket: 4173019766
+2026-06-07 18:04:37,490 [INFO] Trade opened: SELL 1.6 BTCUSDm @ 62339.62
+2026-06-07 18:04:42,577 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-07 18:04:42,618 [INFO] Order placed: SELL 1.6 BTCUSDm @ 62337.93 | Ticket: 4173019841
+2026-06-07 18:04:42,623 [INFO] Trade opened: SELL 1.6 BTCUSDm @ 62337.93
+2026-06-07 18:07:18,943 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-07 18:07:18,985 [INFO] Order placed: SELL 1.58 BTCUSDm @ 62349.130000000005 | Ticket: 4173022339
+2026-06-07 18:07:18,990 [INFO] Trade opened: SELL 1.58 BTCUSDm @ 62349.130000000005
+2026-06-07 18:07:24,049 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-07 18:07:24,092 [INFO] Order placed: SELL 1.58 BTCUSDm @ 62346.05 | Ticket: 4173022403
+2026-06-07 18:07:24,096 [INFO] Trade opened: SELL 1.58 BTCUSDm @ 62346.05
+2026-06-07 18:54:01,191 [INFO] Signal: SELL — SELL signal — score 5/6
+2026-06-07 18:54:01,238 [INFO] Order placed: SELL 1.57 BTCUSDm @ 62583.54 | Ticket: 4173075361
+2026-06-07 18:54:01,243 [INFO] Trade opened: SELL 1.57 BTCUSDm @ 62583.54
+2026-06-07 18:54:16,481 [INFO] Signal: SELL — SELL signal — score 5/6
+2026-06-07 18:54:16,526 [INFO] Order placed: SELL 1.57 BTCUSDm @ 62584.81 | Ticket: 4173075550
+2026-06-07 18:54:16,530 [INFO] Trade opened: SELL 1.57 BTCUSDm @ 62584.81
+2026-06-07 18:55:21,997 [INFO] Signal: SELL — SELL signal — score 5/6
+2026-06-07 18:55:22,038 [INFO] Order placed: SELL 1.55 BTCUSDm @ 62580.18 | Ticket: 4173077383
+2026-06-07 18:55:22,044 [INFO] Trade opened: SELL 1.55 BTCUSDm @ 62580.18
+2026-06-07 18:55:27,210 [INFO] Signal: SELL — SELL signal — score 5/6
+2026-06-07 18:55:27,255 [INFO] Order placed: SELL 1.55 BTCUSDm @ 62580.18 | Ticket: 4173077499
+2026-06-07 18:55:27,258 [INFO] Trade opened: SELL 1.55 BTCUSDm @ 62580.18
+2026-06-07 18:55:32,345 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-07 18:55:32,391 [INFO] Order placed: SELL 1.55 BTCUSDm @ 62568.98 | Ticket: 4173077632
+2026-06-07 18:55:32,396 [INFO] Trade opened: SELL 1.55 BTCUSDm @ 62568.98
+2026-06-07 18:55:37,519 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-07 18:55:37,563 [INFO] Order placed: SELL 1.55 BTCUSDm @ 62565.83 | Ticket: 4173077783
+2026-06-07 18:55:37,568 [INFO] Trade opened: SELL 1.55 BTCUSDm @ 62565.83
+2026-06-07 18:55:42,727 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-07 18:55:42,780 [INFO] Order placed: SELL 1.55 BTCUSDm @ 62563.03 | Ticket: 4173077906
+2026-06-07 18:55:42,784 [INFO] Trade opened: SELL 1.55 BTCUSDm @ 62563.03
+2026-06-07 19:06:23,183 [INFO] Signal: SELL — SELL signal — score 6/6
+2026-06-07 19:06:23,227 [INFO] Order placed: SELL 1.55 BTCUSDm @ 62589.66 | Ticket: 4173088872
+2026-06-07 19:06:23,231 [INFO] Trade opened: SELL 1.55 BTCUSDm @ 62589.66
+2026-06-07 19:06:43,336 [INFO] Signal: SELL — SELL signal — score 6/6
+2026-06-07 19:06:43,376 [INFO] Order placed: SELL 1.54 BTCUSDm @ 62590.450000000004 | Ticket: 4173089611
+2026-06-07 19:06:43,380 [INFO] Trade opened: SELL 1.54 BTCUSDm @ 62590.450000000004
+2026-06-07 19:06:48,549 [INFO] Signal: SELL — SELL signal — score 6/6
+2026-06-07 19:06:48,592 [INFO] Order placed: SELL 1.54 BTCUSDm @ 62587.72 | Ticket: 4173089668
+2026-06-07 19:06:48,596 [INFO] Trade opened: SELL 1.54 BTCUSDm @ 62587.72
+2026-06-07 19:06:53,683 [INFO] Signal: SELL — SELL signal — score 6/6
+2026-06-07 19:06:53,723 [INFO] Order placed: SELL 1.54 BTCUSDm @ 62568.86 | Ticket: 4173089761
+2026-06-07 19:06:53,727 [INFO] Trade opened: SELL 1.54 BTCUSDm @ 62568.86
+2026-06-07 19:06:58,781 [INFO] Signal: SELL — SELL signal — score 6/6
+2026-06-07 19:06:58,824 [INFO] Order placed: SELL 1.54 BTCUSDm @ 62568.86 | Ticket: 4173089934
+2026-06-07 19:06:58,829 [INFO] Trade opened: SELL 1.54 BTCUSDm @ 62568.86
+2026-06-07 19:21:04,454 [INFO] Bot stopped
+2026-06-07 19:21:07,607 [INFO] Disconnected from MT5
+2026-06-07 19:21:17,674 [INFO] Database ready: data/trades.db
+2026-06-07 19:21:20,057 [INFO] Connected to MT5 - Account: 433730614
+2026-06-07 19:21:21,928 [INFO] Bot started
+2026-06-07 19:57:05,064 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-07 19:57:05,115 [INFO] Order placed: BUY 4.58 BTCUSDm @ 61833.94 | Ticket: 4173213277
+2026-06-07 19:57:05,123 [INFO] Trade opened: BUY 4.58 BTCUSDm @ 61833.94
+2026-06-07 19:57:10,173 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-07 19:57:10,225 [INFO] Order placed: BUY 4.58 BTCUSDm @ 61842.770000000004 | Ticket: 4173213334
+2026-06-07 19:57:10,233 [INFO] Trade opened: BUY 4.58 BTCUSDm @ 61842.770000000004
+2026-06-07 19:57:15,284 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-07 19:57:15,336 [INFO] Order placed: BUY 4.58 BTCUSDm @ 61858.71000000001 | Ticket: 4173213427
+2026-06-07 19:57:15,343 [INFO] Trade opened: BUY 4.58 BTCUSDm @ 61858.71000000001
+2026-06-07 19:57:20,723 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-07 19:57:20,781 [INFO] Order placed: BUY 4.58 BTCUSDm @ 61873.79 | Ticket: 4173213556
+2026-06-07 19:57:20,789 [INFO] Trade opened: BUY 4.58 BTCUSDm @ 61873.79
+2026-06-07 19:57:25,839 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-07 19:57:25,894 [INFO] Order placed: BUY 4.59 BTCUSDm @ 61856.82 | Ticket: 4173213733
+2026-06-07 19:57:25,902 [INFO] Trade opened: BUY 4.59 BTCUSDm @ 61856.82
+2026-06-07 19:57:30,975 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-07 19:57:31,038 [INFO] Order placed: BUY 4.59 BTCUSDm @ 61864.43 | Ticket: 4173213814
+2026-06-07 19:57:31,046 [INFO] Trade opened: BUY 4.59 BTCUSDm @ 61864.43
+2026-06-07 19:57:36,078 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-07 19:57:36,119 [INFO] Order placed: BUY 4.59 BTCUSDm @ 61858.380000000005 | Ticket: 4173213871
+2026-06-07 19:57:36,124 [INFO] Trade opened: BUY 4.59 BTCUSDm @ 61858.380000000005
+2026-06-07 19:57:46,294 [INFO] Signal: BUY — BUY signal — score 4/6
+2026-06-07 19:57:46,339 [INFO] Order placed: BUY 4.93 BTCUSDm @ 61943.72 | Ticket: 4173214699
+2026-06-07 19:57:46,345 [INFO] Trade opened: BUY 4.93 BTCUSDm @ 61943.72
+2026-06-07 19:57:51,373 [INFO] Signal: BUY — BUY signal — score 4/6
+2026-06-07 19:57:51,416 [INFO] Order placed: BUY 4.87 BTCUSDm @ 61937.91 | Ticket: 4173214922
+2026-06-07 19:57:51,421 [INFO] Trade opened: BUY 4.87 BTCUSDm @ 61937.91
+2026-06-07 19:57:56,446 [INFO] Signal: BUY — BUY signal — score 4/6
+2026-06-07 19:57:56,489 [INFO] Order placed: BUY 4.81 BTCUSDm @ 61922.51 | Ticket: 4173215178
+2026-06-07 19:57:56,499 [INFO] Trade opened: BUY 4.81 BTCUSDm @ 61922.51
+2026-06-07 20:50:58,285 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-07 20:50:58,396 [INFO] Order placed: BUY 4.88 BTCUSDm @ 61767.920000000006 | Ticket: 4173283703
+2026-06-07 20:50:58,434 [INFO] Trade opened: BUY 4.88 BTCUSDm @ 61767.920000000006
+2026-06-07 21:41:30,939 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-07 21:41:31,004 [INFO] Order placed: SELL 4.83 BTCUSDm @ 61978.8 | Ticket: 4173365048
+2026-06-07 21:41:31,009 [INFO] Trade opened: SELL 4.83 BTCUSDm @ 61978.8
+2026-06-07 21:41:36,051 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-07 21:41:36,099 [INFO] Order placed: SELL 4.83 BTCUSDm @ 61980.49 | Ticket: 4173365389
+2026-06-07 21:41:36,107 [INFO] Trade opened: SELL 4.83 BTCUSDm @ 61980.49
+2026-06-07 21:41:41,134 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-07 21:41:41,187 [INFO] Order placed: SELL 4.83 BTCUSDm @ 61972.340000000004 | Ticket: 4173365588
+2026-06-07 21:41:41,194 [INFO] Trade opened: SELL 4.83 BTCUSDm @ 61972.340000000004
+2026-06-07 21:41:46,242 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-07 21:41:46,293 [INFO] Order placed: SELL 4.83 BTCUSDm @ 61941.26 | Ticket: 4173366033
+2026-06-07 21:41:46,304 [INFO] Trade opened: SELL 4.83 BTCUSDm @ 61941.26
+2026-06-07 21:41:51,375 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-07 21:41:51,431 [INFO] Order placed: SELL 5.05 BTCUSDm @ 61938.130000000005 | Ticket: 4173366443
+2026-06-07 21:41:51,435 [INFO] Trade opened: SELL 5.05 BTCUSDm @ 61938.130000000005
+2026-06-07 23:54:26,868 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-07 23:54:26,920 [INFO] Order placed: BUY 4.94 BTCUSDm @ 62185.030000000006 | Ticket: 4173563136
+2026-06-07 23:54:26,928 [INFO] Trade opened: BUY 4.94 BTCUSDm @ 62185.030000000006
+2026-06-08 00:00:04,246 [INFO] Daily reset. Previous P&L: 0.00
+2026-06-08 00:30:01,128 [INFO] Signal: SELL — SELL signal — score 6/6
+2026-06-08 00:30:01,181 [INFO] Order placed: SELL 4.89 BTCUSDm @ 62219.4 | Ticket: 4173607041
+2026-06-08 00:30:01,189 [INFO] Trade opened: SELL 4.89 BTCUSDm @ 62219.4
+2026-06-08 00:30:06,235 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-08 00:30:06,283 [INFO] Order placed: BUY 4.81 BTCUSDm @ 62247.490000000005 | Ticket: 4173607119
+2026-06-08 00:30:06,291 [INFO] Trade opened: BUY 4.81 BTCUSDm @ 62247.490000000005
+2026-06-08 00:30:11,635 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-08 00:30:11,683 [INFO] Order placed: BUY 4.77 BTCUSDm @ 62237.21000000001 | Ticket: 4173607158
+2026-06-08 00:30:11,689 [INFO] Trade opened: BUY 4.77 BTCUSDm @ 62237.21000000001
+2026-06-08 00:30:16,736 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-08 00:30:16,782 [INFO] Order placed: BUY 4.77 BTCUSDm @ 62236.020000000004 | Ticket: 4173607194
+2026-06-08 00:30:16,789 [INFO] Trade opened: BUY 4.77 BTCUSDm @ 62236.020000000004
+2026-06-08 00:30:21,837 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-08 00:30:21,883 [INFO] Order placed: BUY 4.77 BTCUSDm @ 62240.01 | Ticket: 4173607237
+2026-06-08 00:30:21,890 [INFO] Trade opened: BUY 4.77 BTCUSDm @ 62240.01
+2026-06-08 00:30:26,941 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-08 00:30:26,990 [INFO] Order placed: BUY 4.77 BTCUSDm @ 62240.18 | Ticket: 4173607251
+2026-06-08 00:30:26,998 [INFO] Trade opened: BUY 4.77 BTCUSDm @ 62240.18
+2026-06-08 00:30:32,045 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-08 00:30:32,092 [INFO] Order placed: BUY 4.77 BTCUSDm @ 62245.08 | Ticket: 4173607416
+2026-06-08 00:30:32,100 [INFO] Trade opened: BUY 4.77 BTCUSDm @ 62245.08
+2026-06-08 00:30:47,538 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-08 00:30:47,585 [INFO] Order placed: BUY 4.55 BTCUSDm @ 62238.61 | Ticket: 4173607541
+2026-06-08 00:30:47,592 [INFO] Trade opened: BUY 4.55 BTCUSDm @ 62238.61
+2026-06-08 00:30:52,640 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-08 00:30:52,688 [INFO] Order placed: BUY 4.55 BTCUSDm @ 62246.450000000004 | Ticket: 4173607593
+2026-06-08 00:30:52,696 [INFO] Trade opened: BUY 4.55 BTCUSDm @ 62246.450000000004
+2026-06-08 00:30:57,743 [INFO] Signal: BUY — BUY signal — score 4/6
+2026-06-08 00:30:57,793 [INFO] Order placed: BUY 4.55 BTCUSDm @ 62257.96000000001 | Ticket: 4173607642
+2026-06-08 00:30:57,801 [INFO] Trade opened: BUY 4.55 BTCUSDm @ 62257.96000000001
+2026-06-08 00:31:28,774 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-08 00:31:28,829 [INFO] Order placed: SELL 4.55 BTCUSDm @ 62245.9 | Ticket: 4173608163
+2026-06-08 00:31:28,838 [INFO] Trade opened: SELL 4.55 BTCUSDm @ 62245.9
+2026-06-08 01:03:16,198 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-08 01:03:16,246 [INFO] Order placed: BUY 4.5 BTCUSDm @ 62213.350000000006 | Ticket: 4173638308
+2026-06-08 01:03:16,252 [INFO] Trade opened: BUY 4.5 BTCUSDm @ 62213.350000000006
+2026-06-08 01:03:56,593 [INFO] Bot stopped
+2026-06-08 01:03:56,596 [WARNING] TRADING HALTED: Emergency stop
+2026-06-08 01:03:56,597 [WARNING] EMERGENCY STOP — 0 positions closed
+2026-06-08 01:03:59,457 [INFO] Disconnected from MT5
+2026-06-08 09:53:18,669 [INFO] Database ready: data/trades.db
+2026-06-08 09:53:26,676 [INFO] Connected to MT5 - Account: 433730614
+2026-06-08 09:53:29,340 [INFO] Bot started
+2026-06-08 10:21:39,701 [INFO] Signal: BUY — BUY signal — score 4/6
+2026-06-08 10:21:39,712 [ERROR] Order failed: 10016 - Invalid stops
+2026-06-08 10:21:39,713 [ERROR] Order failed: Order failed: 10016 - Invalid stops
+2026-06-08 10:21:44,736 [INFO] Signal: BUY — BUY signal — score 4/6
+2026-06-08 10:21:44,744 [ERROR] Order failed: 10016 - Invalid stops
+2026-06-08 10:21:44,746 [ERROR] Order failed: Order failed: 10016 - Invalid stops
+2026-06-08 10:21:49,773 [INFO] Signal: BUY — BUY signal — score 4/6
+2026-06-08 10:21:49,783 [ERROR] Order failed: 10016 - Invalid stops
+2026-06-08 10:21:49,787 [ERROR] Order failed: Order failed: 10016 - Invalid stops
+2026-06-08 10:21:59,945 [INFO] Signal: BUY — BUY signal — score 4/6
+2026-06-08 10:21:59,955 [ERROR] Order failed: 10016 - Invalid stops
+2026-06-08 10:21:59,956 [ERROR] Order failed: Order failed: 10016 - Invalid stops
+2026-06-08 10:22:30,078 [INFO] Bot stopped
+2026-06-08 10:22:32,063 [INFO] Disconnected from MT5
+2026-06-08 10:22:37,348 [INFO] Database ready: data/trades.db
+2026-06-08 10:22:40,684 [INFO] Connected to MT5 - Account: 433730614
+2026-06-08 10:22:41,645 [INFO] Bot started
+2026-06-08 10:28:32,752 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-08 10:28:32,837 [INFO] Order placed: SELL 4.0 XAUUSDm @ 4307.77 | Ticket: 4175839752
+2026-06-08 10:28:32,848 [INFO] Trade opened: SELL 4.0 XAUUSDm @ 4307.77
+2026-06-08 10:28:37,876 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-08 10:28:37,928 [INFO] Order placed: SELL 4.0 XAUUSDm @ 4307.71 | Ticket: 4175840021
+2026-06-08 10:28:37,933 [INFO] Trade opened: SELL 4.0 XAUUSDm @ 4307.71
+2026-06-08 10:28:42,958 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-08 10:28:43,016 [ERROR] Order failed: 10016 - Invalid stops
+2026-06-08 10:28:43,017 [ERROR] Order failed: Order failed: 10016 - Invalid stops
+2026-06-08 10:28:53,070 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-08 10:28:53,122 [INFO] Order placed: SELL 3.82 XAUUSDm @ 4307.669 | Ticket: 4175840862
+2026-06-08 10:28:53,129 [INFO] Trade opened: SELL 3.82 XAUUSDm @ 4307.669
+2026-06-08 10:28:58,425 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-08 10:28:58,478 [INFO] Order placed: SELL 3.82 XAUUSDm @ 4307.649 | Ticket: 4175841135
+2026-06-08 10:28:58,484 [INFO] Trade opened: SELL 3.82 XAUUSDm @ 4307.649
+2026-06-08 10:33:48,524 [INFO] Bot stopped
+2026-06-08 10:33:49,787 [INFO] Disconnected from MT5
+2026-06-08 10:33:53,968 [INFO] Database ready: data/trades.db
+2026-06-08 10:33:56,474 [INFO] Connected to MT5 - Account: 433730614
+2026-06-08 10:33:57,286 [INFO] Bot started
+2026-06-08 10:34:01,228 [INFO] Bot stopped
+2026-06-08 10:34:01,235 [INFO] Disconnected from MT5
+2026-06-08 10:34:18,903 [INFO] Database ready: data/trades.db
+2026-06-08 10:34:22,041 [INFO] Connected to MT5 - Account: 433730614
+2026-06-08 10:34:22,698 [INFO] Bot started
+2026-06-08 10:41:27,796 [INFO] Signal: BUY — BUY signal — score 6/6
+2026-06-08 10:41:27,854 [INFO] Order placed: BUY 0.5 XAUUSDm @ 4308.503 | Ticket: 4175887636
+2026-06-08 10:41:27,858 [INFO] Trade opened: BUY 0.5 XAUUSDm @ 4308.503
+2026-06-08 10:41:32,880 [INFO] Signal: BUY — BUY signal — score 6/6
+2026-06-08 10:41:32,937 [INFO] Order placed: BUY 0.5 XAUUSDm @ 4308.821 | Ticket: 4175888485
+2026-06-08 10:41:32,941 [INFO] Trade opened: BUY 0.5 XAUUSDm @ 4308.821
+2026-06-08 10:41:37,965 [INFO] Signal: BUY — BUY signal — score 6/6
+2026-06-08 10:41:38,008 [INFO] Order placed: BUY 0.5 XAUUSDm @ 4308.751 | Ticket: 4175888687
+2026-06-08 10:41:38,012 [INFO] Trade opened: BUY 0.5 XAUUSDm @ 4308.751
+2026-06-08 10:43:59,229 [INFO] Signal: SELL — SELL signal — score 5/6
+2026-06-08 10:43:59,278 [INFO] Order placed: SELL 0.49 XAUUSDm @ 4306.996 | Ticket: 4175896742
+2026-06-08 10:43:59,282 [INFO] Trade opened: SELL 0.49 XAUUSDm @ 4306.996
+2026-06-08 11:23:19,911 [INFO] Signal: SELL — SELL signal — score 5/6
+2026-06-08 11:23:19,963 [INFO] Order placed: SELL 0.49 XAUUSDm @ 4316.962 | Ticket: 4176073641
+2026-06-08 11:23:19,970 [INFO] Trade opened: SELL 0.49 XAUUSDm @ 4316.962
+2026-06-08 11:23:30,140 [INFO] Signal: SELL — SELL signal — score 5/6
+2026-06-08 11:23:30,188 [INFO] Order placed: SELL 0.49 XAUUSDm @ 4316.904 | Ticket: 4176074068
+2026-06-08 11:23:30,193 [INFO] Trade opened: SELL 0.49 XAUUSDm @ 4316.904
+2026-06-08 11:23:35,219 [INFO] Signal: SELL — SELL signal — score 5/6
+2026-06-08 11:23:35,267 [INFO] Order placed: SELL 0.49 XAUUSDm @ 4316.924 | Ticket: 4176074510
+2026-06-08 11:23:35,271 [INFO] Trade opened: SELL 0.49 XAUUSDm @ 4316.924
+2026-06-08 11:23:40,305 [INFO] Signal: SELL — SELL signal — score 5/6
+2026-06-08 11:23:40,350 [INFO] Order placed: SELL 0.49 XAUUSDm @ 4316.758 | Ticket: 4176074614
+2026-06-08 11:23:40,356 [INFO] Trade opened: SELL 0.49 XAUUSDm @ 4316.758
+2026-06-08 11:23:45,391 [INFO] Signal: SELL — SELL signal — score 5/6
+2026-06-08 11:23:45,435 [INFO] Order placed: SELL 0.49 XAUUSDm @ 4316.957 | Ticket: 4176074863
+2026-06-08 11:23:45,440 [INFO] Trade opened: SELL 0.49 XAUUSDm @ 4316.957
+2026-06-08 11:26:26,705 [INFO] Signal: SELL — SELL signal — score 6/6
+2026-06-08 11:26:26,766 [INFO] Order placed: SELL 0.49 XAUUSDm @ 4317.4580000000005 | Ticket: 4176082891
+2026-06-08 11:26:26,772 [INFO] Trade opened: SELL 0.49 XAUUSDm @ 4317.4580000000005
+2026-06-08 12:08:48,653 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-08 12:08:48,709 [INFO] Order placed: SELL 0.46 XAUUSDm @ 4311.216 | Ticket: 4176312144
+2026-06-08 12:08:48,716 [INFO] Trade opened: SELL 0.46 XAUUSDm @ 4311.216
+2026-06-08 12:08:53,763 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-08 12:08:53,816 [INFO] Order placed: SELL 0.46 XAUUSDm @ 4311.134 | Ticket: 4176312412
+2026-06-08 12:08:53,825 [INFO] Trade opened: SELL 0.46 XAUUSDm @ 4311.134
+2026-06-08 12:08:58,876 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-08 12:08:58,930 [INFO] Order placed: SELL 0.46 XAUUSDm @ 4310.991 | Ticket: 4176312601
+2026-06-08 12:08:58,938 [INFO] Trade opened: SELL 0.46 XAUUSDm @ 4310.991
+2026-06-08 12:21:38,334 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-08 12:21:38,399 [INFO] Order placed: BUY 0.48 XAUUSDm @ 4312.148999999999 | Ticket: 4176392362
+2026-06-08 12:21:38,407 [INFO] Trade opened: BUY 0.48 XAUUSDm @ 4312.148999999999
+2026-06-08 12:21:43,457 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-08 12:21:43,528 [INFO] Order placed: BUY 0.48 XAUUSDm @ 4312.333 | Ticket: 4176393340
+2026-06-08 12:21:43,536 [INFO] Trade opened: BUY 0.48 XAUUSDm @ 4312.333
+2026-06-08 12:21:48,588 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-08 12:21:48,663 [INFO] Order placed: BUY 0.48 XAUUSDm @ 4311.855 | Ticket: 4176393612
+2026-06-08 12:21:48,672 [INFO] Trade opened: BUY 0.48 XAUUSDm @ 4311.855
+2026-06-08 12:21:59,079 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-08 12:21:59,153 [INFO] Order placed: BUY 0.48 XAUUSDm @ 4311.876 | Ticket: 4176394211
+2026-06-08 12:21:59,160 [INFO] Trade opened: BUY 0.48 XAUUSDm @ 4311.876
+2026-06-08 14:21:20,256 [INFO] Database ready: data/trades.db
+2026-06-08 14:21:29,852 [INFO] Connected to MT5 - Account: 433730614
+2026-06-08 14:21:32,202 [INFO] Bot started
+2026-06-08 14:34:19,893 [INFO] Signal: SELL — SELL signal — score 6/6
+2026-06-08 14:34:19,946 [INFO] Order placed: SELL 0.92 XAUUSDm @ 4306.451 | Ticket: 4177386702
+2026-06-08 14:34:19,953 [INFO] Trade opened: SELL 0.92 XAUUSDm @ 4306.451
+2026-06-08 14:34:25,067 [INFO] Signal: SELL — SELL signal — score 6/6
+2026-06-08 14:34:25,123 [INFO] Order placed: SELL 0.92 XAUUSDm @ 4306.733 | Ticket: 4177387077
+2026-06-08 14:34:25,130 [INFO] Trade opened: SELL 0.92 XAUUSDm @ 4306.733
+2026-06-08 14:34:40,667 [INFO] Signal: SELL — SELL signal — score 6/6
+2026-06-08 14:34:40,721 [INFO] Order placed: SELL 0.91 XAUUSDm @ 4306.61 | Ticket: 4177387986
+2026-06-08 14:34:40,729 [INFO] Trade opened: SELL 0.91 XAUUSDm @ 4306.61
+2026-06-08 14:35:52,182 [INFO] Signal: SELL — SELL signal — score 5/6
+2026-06-08 14:35:52,232 [INFO] Order placed: SELL 0.9 XAUUSDm @ 4305.831 | Ticket: 4177399035
+2026-06-08 14:35:52,239 [INFO] Trade opened: SELL 0.9 XAUUSDm @ 4305.831
+2026-06-08 14:35:57,335 [INFO] Signal: SELL — SELL signal — score 5/6
+2026-06-08 14:35:57,385 [INFO] Order placed: SELL 0.9 XAUUSDm @ 4306.233 | Ticket: 4177399668
+2026-06-08 14:35:57,392 [INFO] Trade opened: SELL 0.9 XAUUSDm @ 4306.233
+2026-06-08 14:40:12,223 [INFO] Signal: SELL — SELL signal — score 6/6
+2026-06-08 14:40:12,271 [INFO] Order placed: SELL 0.88 XAUUSDm @ 4307.147 | Ticket: 4177427056
+2026-06-08 14:40:12,281 [INFO] Trade opened: SELL 0.88 XAUUSDm @ 4307.147
+2026-06-08 14:40:27,457 [INFO] Signal: SELL — SELL signal — score 6/6
+2026-06-08 14:40:27,507 [INFO] Order placed: SELL 0.87 XAUUSDm @ 4306.664 | Ticket: 4177428383
+2026-06-08 14:40:27,514 [INFO] Trade opened: SELL 0.87 XAUUSDm @ 4306.664
+2026-06-08 14:40:32,899 [INFO] Signal: SELL — SELL signal — score 6/6
+2026-06-08 14:40:32,947 [INFO] Order placed: SELL 0.87 XAUUSDm @ 4306.383 | Ticket: 4177429099
+2026-06-08 14:40:32,954 [INFO] Trade opened: SELL 0.87 XAUUSDm @ 4306.383
+2026-06-08 14:40:38,088 [INFO] Signal: SELL — SELL signal — score 6/6
+2026-06-08 14:40:38,147 [INFO] Order placed: SELL 0.87 XAUUSDm @ 4306.249 | Ticket: 4177429697
+2026-06-08 14:40:38,154 [INFO] Trade opened: SELL 0.87 XAUUSDm @ 4306.249
+2026-06-08 14:40:43,240 [INFO] Signal: SELL — SELL signal — score 6/6
+2026-06-08 14:40:43,288 [INFO] Order placed: SELL 0.87 XAUUSDm @ 4305.6 | Ticket: 4177430190
+2026-06-08 14:40:43,301 [INFO] Trade opened: SELL 0.87 XAUUSDm @ 4305.6
+2026-06-08 14:40:48,355 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-08 14:40:48,433 [INFO] Order placed: SELL 0.89 XAUUSDm @ 4304.705 | Ticket: 4177431676
+2026-06-08 14:40:48,440 [INFO] Trade opened: SELL 0.89 XAUUSDm @ 4304.705
+2026-06-08 14:40:53,494 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-08 14:40:53,551 [INFO] Order placed: SELL 0.88 XAUUSDm @ 4304.978 | Ticket: 4177432539
+2026-06-08 14:40:53,559 [INFO] Trade opened: SELL 0.88 XAUUSDm @ 4304.978
+2026-06-08 14:40:58,963 [INFO] Signal: SELL — SELL signal — score 4/6
+2026-06-08 14:40:59,012 [INFO] Order placed: SELL 0.88 XAUUSDm @ 4304.959 | Ticket: 4177433031
+2026-06-08 14:40:59,018 [INFO] Trade opened: SELL 0.88 XAUUSDm @ 4304.959
+2026-06-08 16:00:47,306 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-08 16:00:47,364 [INFO] Order placed: BUY 0.87 XAUUSDm @ 4290.869 | Ticket: 4177873828
+2026-06-08 16:00:47,372 [INFO] Trade opened: BUY 0.87 XAUUSDm @ 4290.869
+2026-06-08 16:00:52,812 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-08 16:00:52,865 [INFO] Order placed: BUY 0.87 XAUUSDm @ 4291.534 | Ticket: 4177874484
+2026-06-08 16:00:52,874 [INFO] Trade opened: BUY 0.87 XAUUSDm @ 4291.534
+2026-06-08 16:00:57,989 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-08 16:00:58,042 [INFO] Order placed: BUY 0.87 XAUUSDm @ 4292.004 | Ticket: 4177875072
+2026-06-08 16:00:58,050 [INFO] Trade opened: BUY 0.87 XAUUSDm @ 4292.004
+2026-06-08 16:16:10,242 [INFO] Bot stopped
+2026-06-08 16:16:10,245 [WARNING] TRADING HALTED: Emergency stop
+2026-06-08 16:16:10,245 [WARNING] EMERGENCY STOP — 0 positions closed
+2026-06-08 20:19:32,796 [INFO] Database ready: data/trades.db
+2026-06-08 20:19:39,088 [INFO] Connected to MT5 - Account: 433730614
+2026-06-08 20:19:43,569 [INFO] Bot started
+2026-06-08 20:31:47,336 [INFO] Bot stopped
+2026-06-08 20:31:48,670 [INFO] Disconnected from MT5
+2026-06-08 20:33:56,960 [INFO] Database ready: data/trades.db
+2026-06-08 20:33:59,480 [INFO] Connected to MT5 - Account: 433730614
+2026-06-08 20:34:00,697 [INFO] Bot started
+2026-06-08 20:34:25,534 [INFO] Bot stopped
+2026-06-08 20:34:25,539 [INFO] Disconnected from MT5
+2026-06-08 20:34:29,398 [INFO] Database ready: data/trades.db
+2026-06-08 20:34:31,585 [INFO] Connected to MT5 - Account: 433730614
+2026-06-08 20:34:32,350 [INFO] Bot started
+2026-06-08 21:21:32,721 [INFO] Signal: BUY — BUY signal — score 6/6
+2026-06-08 21:21:32,774 [INFO] Order placed: BUY 0.5 XAUUSDm @ 4323.104 | Ticket: 4180140989
+2026-06-08 21:21:32,782 [INFO] Trade opened: BUY 0.5 XAUUSDm @ 4323.104
+2026-06-08 21:21:37,863 [INFO] Signal: BUY — BUY signal — score 5/6
+2026-06-08 21:21:37,928 [INFO] Order placed: BUY 0.5 XAUUSDm @ 4323.392 | Ticket: 4180142278
+2026-06-08 21:21:37,935 [INFO] Trade opened: BUY 0.5 XAUUSDm @ 4323.392
+2026-06-08 21:21:48,021 [INFO] Signal: BUY — BUY signal — score 6/6
+2026-06-08 21:21:48,066 [INFO] Order placed: BUY 0.5 XAUUSDm @ 4322.84 | Ticket: 4180143666
+2026-06-08 21:21:48,072 [INFO] Trade opened: BUY 0.5 XAUUSDm @ 4322.84
+2026-06-09 18:11:23,380 [INFO] Database ready: data/trades.db
+2026-06-09 18:11:29,048 [INFO] Connected to MT5 - Account: 433730614
+2026-06-09 18:11:33,470 [INFO] Bot started
+2026-06-09 20:06:11,444 [INFO] Bot stopped
+2026-06-09 20:06:11,451 [INFO] Disconnected from MT5
